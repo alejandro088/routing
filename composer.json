@@ -1,0 +1,15 @@
+{
+    "name": "alejandro/routing",
+    "autoload": {
+        "psr-4": {
+            "Api\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alejandro Cayssials",
+            "email": "admin@webxander.com"
+        }
+    ],
+    "require": {}
+}
